@@ -113,9 +113,9 @@ manage-bde -status
 ```
 
 **Recovery Key Backup Locations:**
-- **Location 1:** Microsoft Account (https://account.microsoft.com/devices/recoverykey)
+- **Location 1:** Social Media Private Chat
 - **Location 2:** USB Flash Drive (labeled "Windows 11 Recovery Keys")
-- **Location 3:** Printed paper (sealed envelope, stored separately)
+- **Location 3:** Writed down paper (Personal Note)
 
 #### 1.3 System Backup Execution
 ```
@@ -603,6 +603,23 @@ manage-bde -status
 - Windows Update doesn't always provide latest OEM-specific drivers
 - Direct vendor driver downloads often superior to OS-provided versions
 
+### Challenge 5: BitLocker Recovery Key Not Showing in Microsoft Account
+
+**Problem Identified:**
+- 
+
+**Root Cause Analysis:**
+- 
+
+**Solution Implemented:**
+- 
+
+**Result:**
+- 
+
+**Learning Outcome:**
+- 
+
 ---
 
 ## Post-Implementation Review & Lessons Learned
@@ -613,7 +630,7 @@ manage-bde -status
 |-----------|--------|--------|--------|
 | Upgrade to Pro edition | Enable BitLocker | Successfully upgraded | ✅ Achieved |
 | Enable full-disk encryption | BitLocker 100% | 100% encrypted | ✅ Achieved |
-| Secure recovery keys | 2+ locations | 3 locations (Account, USB, Paper) | ✅ Exceeded |
+| Secure recovery keys | 2+ locations | 3 locations (Social, USB, Paper) | ✅ Exceeded |
 | Implement security hardening | UAC + telemetry control | All implemented | ✅ Achieved |
 | Minimize downtime | <4 hours | 3.5 hours | ✅ Achieved |
 | Preserve all data | 100% file retention | 100% files intact | ✅ Achieved |
