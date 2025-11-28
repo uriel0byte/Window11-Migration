@@ -68,7 +68,7 @@ This document details a complete Windows 10 Home to Windows 11 Pro operating sys
 | Risk | Probability | Impact | Mitigation |
 |------|-------------|--------|-----------|
 | Files lost during upgrade | Low | Critical | Full backup to external drive + ❌ cloud syn |
-| BitLocker lockout (recovery key lost) | Very Low | Critical | Recovery key backed up in 3 locations (Microsoft account, USB, paper) |
+| BitLocker lockout (recovery key lost) | Very Low | Critical | Recovery key backed up in 3 locations (Social Media accounts, USB, paper) |
 | Driver incompatibilities | Medium | High | Pre-identified drivers + post-upgrade updates |
 | Application failures | Medium | Medium | Pre-upgrade compatibility check + testing after |
 | Performance degradation | Low | Medium | Disk cleanup + optimization post-upgrade |
