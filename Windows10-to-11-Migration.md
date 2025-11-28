@@ -603,22 +603,22 @@ manage-bde -status
 - Windows Update doesn't always provide latest OEM-specific drivers
 - Direct vendor driver downloads often superior to OS-provided versions
 
-### Challenge 5: BitLocker Recovery Key Not Showing in Microsoft Account
+### Challenge 5: BitLocker Recovery Key Not Showing in Microsoft Account (https://account.microsoft.com/devices/recoverykey)
 
 **Problem Identified:**
-- 
+- Working
 
 **Root Cause Analysis:**
-- 
+- Working
 
 **Solution Implemented:**
-- 
+- Working
 
 **Result:**
-- 
+- Working
 
 **Learning Outcome:**
-- 
+- Working
 
 ---
 
