@@ -3,7 +3,7 @@
 
 **Project Date:** November 27, 2025  
 **Learning Path:** CompTIA Security+ Certification (Self-Directed)  
-**Background:** Arts Student Transitioning to Cybersecurity  
+**Background:** Arts(ILS) Student Transitioning to Cybersecurity  
 **GitHub Repository:** [IT-Learning-Journey-urielbyte](https://github.com/uriel0byte/IT-Learning-Journey-urielbyte)
 
 ---
@@ -68,7 +68,7 @@ This document details a complete Windows 10 Home to Windows 11 Pro operating sys
 | Risk | Probability | Impact | Mitigation |
 |------|-------------|--------|-----------|
 | Files lost during upgrade | Low | Critical | Full backup to external drive + ❌ cloud syn |
-| BitLocker lockout (recovery key lost) | Very Low | Critical | Recovery key backed up in 3 locations (Social Media accounts, USB, paper) |
+| BitLocker lockout (recovery key lost) | Very Low | Critical | Recovery key backed up in 3 locations (Social Media, Microsoft accounts, USB, paper) |
 | Driver incompatibilities | Medium | High | Pre-identified drivers + post-upgrade updates |
 | Application failures | Medium | Medium | Pre-upgrade compatibility check + testing after |
 | Performance degradation | Low | Medium | Disk cleanup + optimization post-upgrade |
@@ -114,8 +114,9 @@ manage-bde -status
 
 **Recovery Key Backup Locations:**
 - **Location 1:** Social Media Private Chat
-- **Location 2:** USB Flash Drive (labeled "Windows 11 Recovery Keys")
-- **Location 3:** Writed down paper (Personal Note)
+- **Location 2:** Microsoft Account (https://account.microsoft.com/devices/recoverykey)
+- **Location 3:** USB Flash Drive (labeled "Windows 11 Recovery Keys")
+- **Location 4:** Writed down paper (Personal Note)
 
 #### 1.3 System Backup Execution
 ```
@@ -606,19 +607,19 @@ manage-bde -status
 ### Challenge 5: BitLocker Recovery Key Not Showing in Microsoft Account (https://account.microsoft.com/devices/recoverykey)
 
 **Problem Identified:**
-- Working
+- Recovery key doesn't appear on BitLocker recovery keys page
 
 **Root Cause Analysis:**
-- Working
+- In the process of turning on BitLocker, user only did the "Save to a file" and "Print the recovery key" options. For it to appear in the Microsoft page it require to do the "Save to your Microsoft account"
 
 **Solution Implemented:**
-- Working
+- Visit the Manage BitLocker, and do the "Back up your recovery key" again
 
 **Result:**
-- Working
+- ✅ Recovery key is now appeared on the Microsoft account page
 
 **Learning Outcome:**
-- Working
+- Importance of reading every lines of the instructions carefully
 
 ---
 
@@ -739,7 +740,8 @@ manage-bde -status
 - Data integrity verified post-upgrade
 
 ✅ **Did NOT lose BitLocker recovery key**
-- Backed up in 3 separate locations (Social Media account, USB, paper)
+- Backed up in 3 separate locations (Social Media, Microsoft account, USB, paper)
+- Tested accessibility from Microsoft account
 - Kept Microsoft account secure with 2FA enabled on Discord account for key storage access
 
 ✅ **Did NOT remain on unsupported Windows 10**
