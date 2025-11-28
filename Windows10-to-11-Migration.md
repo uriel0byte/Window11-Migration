@@ -739,8 +739,7 @@ manage-bde -status
 - Data integrity verified post-upgrade
 
 ✅ **Did NOT lose BitLocker recovery key**
-- Backed up in 3 separate locations (Microsoft account, USB, paper)
-- Tested accessibility from Microsoft account
+- Backed up in 3 separate locations (Social Media account, USB, paper)
 - Kept Microsoft account secure with 2FA enabled on Discord account for key storage access
 
 ✅ **Did NOT remain on unsupported Windows 10**
