@@ -958,8 +958,8 @@ Event Viewer Check (24 hours):
 
 **Document Version:** 1.0  
 **Last Updated:** November 28, 2025  
-**Author:** [Your Name/uriel0byte]  
-**Status:** Complete & Ready for GitHub Portfolio
+**Author:** [Supawat Huncharoen/uriel0byte]  
+**Status:** Not Complete & Not Ready for GitHub Portfolio
 
 ---
 
