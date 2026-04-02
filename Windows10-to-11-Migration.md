@@ -79,7 +79,7 @@ This document details a complete Windows 10 Home to Windows 11 Pro operating sys
 
 - ✅ TPM 2.0 verified enabled (tpm.msc)
 - ✅ BitLocker recovery key location verified (https://account.microsoft.com/devices/recoverykey)
-- ✅ Full system backup completed (156 GB to external drive + 12.5 GB to cloud)
+- ✅ Full system backup completed (156 GB to external drive)
 - ✅ Driver updates list prepared (GPU: Nvidia 546.29, Network: Realtek, Chipset: Intel)
 - ✅ Windows language/region matched English (United States)
 - ✅ Free disk space confirmed (45 GB freed via Disk Cleanup, 222.60 GB total)
