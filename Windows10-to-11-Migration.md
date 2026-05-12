@@ -594,5 +594,5 @@ sc config dmwappushservice start= disabled && sc stop dmwappushservice
 
 **Document Version:** 1.1  
 **Last Updated:** November 28, 2025   
-**Author:** Supawat Huncharoen (uriel0byte)  
+**Author:** Supawat H. (uriel0byte)  
 **Status:** Draft — pending final review before GitHub publish
