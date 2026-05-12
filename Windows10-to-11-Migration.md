@@ -1,10 +1,10 @@
 # Windows 10 to Windows 11 Pro Upgrade
 ## Change Management, Implementation & Lessons Learned
 
-**Project Date:** November 27, 2025
-**Learning Path:** CompTIA Security+ (Self-Directed)
-**Background:** ILS Student — Cybersecurity Career Transition
-**Repository:** [IT-Learning-Journey-urielbyte](https://github.com/uriel0byte/IT-Learning-Journey-urielbyte)
+**Project Date:** November 27, 2025  
+**Learning Path:** CompTIA Security+ (Self-Directed)  
+**Background:** ILS Student — Cybersecurity Career Transition  
+**Repository:** [uriel0byte](https://github.com/uriel0byte/)
 
 ---
 
